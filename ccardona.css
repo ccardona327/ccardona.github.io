@@ -6,12 +6,14 @@ body{
 
 .header
 {
-    text-align:center;
     padding-bottom:.2cm;
     padding-top:.2cm;
     background-color:WhiteSmoke;
     border:1px solid;
     border-color:#999999;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%
 }
 
 .spacer
